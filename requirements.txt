@@ -3,3 +3,6 @@ matplotlib
 ipython
 wordcloud
 nltk
+transformers
+scikit-learn
+torch
