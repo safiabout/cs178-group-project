@@ -6,3 +6,4 @@ nltk
 transformers 
 torch
 scikit-learn
+numpy

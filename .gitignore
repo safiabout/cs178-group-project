@@ -1,3 +1,6 @@
 aclImdb_v1.tar.gz
 aclImdb/
 IMDB_ven/
+test_review_data.csv
+train_review_data.csv
+processed_train_data.csv
